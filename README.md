@@ -1,2 +1,3 @@
-# dash_plotly_templates
+# Dash & Plotly frequently used templates
+
 Repo for frequently used plotly &amp; dash templates.
